@@ -31,4 +31,3 @@ return "You are a teenager";
 } else { (age > 19 && age < 13)
 return "You have an age";}
 }
-
